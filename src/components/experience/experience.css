@@ -1,0 +1,52 @@
+.experience {
+    font-family: Heebo;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+.experience h4 {
+    font-size: 80px;
+    color: #E2B5B5;
+    margin-bottom: 0%;
+}
+
+.experience h5 {
+    font-size: 45px;
+    color: #898989;
+    font-weight: 100;
+    margin-top: 0%;
+    padding-bottom: 5%;
+}
+
+.experience-box-1 {
+    background-color: #EFB954;
+    padding: 5%;
+    border-radius: 8px;
+}
+
+.experience-box-text h4 {
+    font-size: 25px;
+    color: white;
+    margin-bottom: 0%;
+}
+
+.experience-box-text h5 {
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+    margin-top: 0%;
+}
+
+.experience-box-text p {
+    font-size: 20px;
+    font-weight: 100;
+    color: white;
+    margin-top: 0%;
+}
+
+.experience-box-2 {
+    background-color: #65A7D8;
+    padding: 5%;
+    border-radius: 8px;
+}
