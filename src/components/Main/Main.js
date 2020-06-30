@@ -3,12 +3,14 @@ import "./main.css";
 import {Button} from 'react-bootstrap';
 import MainPic from "../img/main.jpg";
 import SignaturePic from "../img/signature.png";
+import Resume from "../files/Brian Chou Resume.pdf";
 
 class Main extends Component {
     render() {
         return (
             <div className="main">
                 <div className="main-text">
+                    <Button href={Resume} target="_blank">Resume</Button>
                     <h5>yello! I'm</h5>
                     <div className="main-sub-text">
                         <h2>Brian Chou</h2>
