@@ -71,17 +71,19 @@
 .experience-logo-box {
     background-color: #F4F0EA;
     width: 40%;
+    padding: 1%;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
     display: inline-block;
-    position: relative;
-    margin: 0;
-    padding: 0;
 }
 
 .experience-logo {
     width: 100%;
-    height: 100%;
     display: block;
     margin: auto;
+}
+
+.badge-light {
+    color: #838383 !important;
+    background-color: #FDECCB !important;
 }
