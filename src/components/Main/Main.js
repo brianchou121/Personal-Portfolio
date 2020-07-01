@@ -15,10 +15,9 @@ class Main extends Component {
                     <h5>yello! I'm</h5>
                     <div className="main-sub-text">
                         <h2>Brian Chou</h2>
-                        <h3>a <b>developer.|</b></h3>
                         <h3><Typewriter
                             options={{
-                                strings: ['a developer.', 'an adventurer.', ''],
+                                strings: ['a <b>developer.</b>', 'an <b>adventurer.</b>', ''],
                                 autoStart: true,
                                 loop: true,
                             }}
